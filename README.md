@@ -7,7 +7,8 @@ Este proyecto proporciona herramientas y scripts para limpiar y extraer datos re
 1. [Requeriments](#Requeriments)
 2. [Configuración](#configuración)
 3. [Uso](#uso)
-4. [Contribución](#contribución)
+4. [Resultados de Analisis y Merges]
+5. [Contribución](#contribución)
 
 ## Requeriments
 
@@ -73,9 +74,23 @@ El objetivo principal de este proyecto es limpiar y extraer mediante consultas S
 <img src="Solemne1_images\DataframeA.png" width="961" height="362">
 
 
-Despues de una consulta SQL: 
+Despues de una consulta SQL y Uso de Pandas: 
 
 <img src="Solemne1_images/Tasamortalidad2.png" width="775" height="466">
+
+
+## Resultados de Análisis y Merges
+
+Este proyecto incluye análisis de datos y fusiones (merges) para identificar y mostrar los países más afectados por la pandemia de COVID-19. A continuación se describen brevemente estos aspectos:
+
+- **Merges de Datos**: Utilizando herramientas de procesamiento de datos, se realizan fusiones (merges) de diferentes conjuntos de datos relacionados con el COVID-19 para combinar la información relevante en un único conjunto de datos completo. Esto permite una visualización y análisis más eficientes de la propagación del virus en diferentes países y regiones.
+
+- <img src="Solemne1_images/Merge.png" width="775" height="466">
+
+- **Análisis de Países Más Infectados**: Se lleva a cabo un análisis de los datos fusionados para identificar y mostrar los países más afectados por la pandemia en términos de casos confirmados, tasas de mortalidad, pruebas realizadas, entre otros. Los resultados de este análisis se presentan de manera clara y concisa, proporcionando información útil sobre la situación del COVID-19 en todo el mundo.
+
+Estos análisis y fusiones de datos contribuyen a una mejor comprensión de la propagación del virus y sus impactos en diferentes países, lo que puede ser útil para la toma de decisiones en salud pública y la implementación de medidas preventivas.
+
 
 
 
