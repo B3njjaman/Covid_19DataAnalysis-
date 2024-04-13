@@ -73,6 +73,12 @@ El objetivo principal de este proyecto es limpiar y extraer mediante consultas S
 <img src="Solemne1_images\DataframeA.png" width="961" height="362">
 
 
+Despues de una consulta SQL: 
+
+<img src="Solemne1_images\DataframeB.png" width="961" height="362">
+
+
+
 
 
 
