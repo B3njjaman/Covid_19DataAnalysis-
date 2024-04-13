@@ -11,6 +11,8 @@ Este proyecto proporciona herramientas y scripts para limpiar y extraer datos re
 
 ## Requeriments
 
+## Instalación
+
 Para instalar las dependencias necesarias, puedes utilizar pip, el gestor de paquetes de Python. Asegúrate de tener Python y pip instalados en tu sistema antes de comenzar.
 
 1. **numpy**: Puedes instalar numpy ejecutando el siguiente comando en tu terminal o símbolo del sistema:
@@ -37,7 +39,35 @@ Para instalar las dependencias necesarias, puedes utilizar pip, el gestor de paq
     pip install google-cloud
     ```
 
-Es posible que necesites instalar otras dependencias específicas para tu proyecto, dependiendo de los módulos y funciones que utilices. Si tienes algún problema durante la instalación, asegúrate de revisar la documentación oficial de cada biblioteca o paquete para obtener instrucciones detalladas de instalación y solución de problemas.
+    Antes de comenzar a usar la biblioteca de Google Cloud, necesitas inicializar un repositorio Git en tu proyecto. Si aún no has inicializado un repositorio Git, puedes hacerlo ejecutando el siguiente comando en el directorio de tu proyecto:
+
+    ```bash
+    git init
+    ```
+
+5. **Autenticación con Google Cloud**: Para autenticarte con Google Cloud, necesitas tener instalado Google Cloud SDK. Puedes instalarlo siguiendo las instrucciones en la [documentación oficial de Google Cloud SDK](https://cloud.google.com/sdk/docs/install).
+
+    Después de instalar Google Cloud SDK, puedes autenticarte ejecutando el siguiente comando en tu terminal o símbolo del sistema:
+
+    ```bash
+    gcloud auth login
+    ```
+
+    Este comando abrirá una ventana del navegador donde podrás seleccionar tu cuenta de Google y autorizar el acceso a Google Cloud.
+
+    Luego, para configurar la autenticación predeterminada, ejecuta:
+
+    ```bash
+    gcloud auth application-default login
+    ```
+
+Estos comandos te permitirán autenticarte con Google Cloud y configurar la autenticación predeterminada para tu proyecto. Asegúrate de seguir las instrucciones adicionales que puedan aparecer durante el proceso de autenticación para completar correctamente la configuración.
+
+
+
+
+
+
 
 
 
