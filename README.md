@@ -63,6 +63,15 @@ Para instalar las dependencias necesarias, puedes utilizar pip, el gestor de paq
 
 Estos comandos te permitirán autenticarte con Google Cloud y configurar la autenticación predeterminada para tu proyecto. Asegúrate de seguir las instrucciones adicionales que puedan aparecer durante el proceso de autenticación para completar correctamente la configuración.
 
+## Uso
+
+El objetivo principal de este proyecto es limpiar y extraer mediante consultas SQL datos relacionados con el COVID-19 desde BigQuery utilizando la plataforma Google Cloud. 
+
+
+- **Extracción de datos de BigQuery**:  SQL permite extraer datos de BigQuery utilizando consultas SQL personalizadas. Los usuarios pueden especificar consultas específicas para obtener datos relevantes sobre el COVID-19, como casos confirmados, muertes, pruebas realizadas, etc.
+
+![](Solemne1_images/dataframeA)
+
 
 
 
