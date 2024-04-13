@@ -75,7 +75,7 @@ El objetivo principal de este proyecto es limpiar y extraer mediante consultas S
 
 Despues de una consulta SQL: 
 
-<img src="Solemne1_images/Tasamortalidad.png" width="775" height="466">
+<img src="Solemne1_images/Tasamortalidad2.png" width="775" height="466">
 
 
 
