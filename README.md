@@ -70,7 +70,7 @@ El objetivo principal de este proyecto es limpiar y extraer mediante consultas S
 
 - **Extracción de datos de BigQuery**:  SQL permite extraer datos de BigQuery utilizando consultas SQL personalizadas. Los usuarios pueden especificar consultas específicas para obtener datos relevantes sobre el COVID-19, como casos confirmados, muertes, pruebas realizadas, etc.
 
-<img src="Solemne1_images\DataframeA.png" width="500" height="400">
+<img src="Solemne1_images\DataframeA.png" width="400" height="400">
 
 
 
