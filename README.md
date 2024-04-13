@@ -85,7 +85,7 @@ Este proyecto incluye análisis de datos y fusiones (merges) para identificar y 
 
 - **Merges de Datos**: Utilizando herramientas de procesamiento de datos, se realizan fusiones (merges) de diferentes conjuntos de datos relacionados con el COVID-19 para combinar la información relevante en un único conjunto de datos completo. Esto permite una visualización y analisis de los contagios maximos con la cantidad de habitantes del pais.
 
-- <img src="Solemne1_images/Merge.png" width="500" height="300">
+- <img src="Solemne1_images\Merge.png" width="500" height="300">
 
 - **Análisis de Países Más Infectados**: Se lleva a cabo un análisis de los datos fusionados para identificar y mostrar los países más afectados por la pandemia en términos de casos confirmados, tasas de mortalidad, pruebas realizadas, entre otros. Los resultados de este análisis se presentan de manera clara y concisa, proporcionando información útil sobre la situación del COVID-19 en todo el mundo.
 
