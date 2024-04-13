@@ -83,7 +83,7 @@ Despues de una consulta SQL y Uso de Pandas:
 
 Este proyecto incluye análisis de datos y fusiones (merges) para identificar y mostrar los países más afectados por la pandemia de COVID-19. A continuación se describen brevemente estos aspectos:
 
-- **Merges de Datos**: Utilizando herramientas de procesamiento de datos, se realizan fusiones (merges) de diferentes conjuntos de datos relacionados con el COVID-19 para combinar la información relevante en un único conjunto de datos completo. Esto permite una visualización y análisis más eficientes de la propagación del virus en diferentes países y regiones.
+- **Merges de Datos**: Utilizando herramientas de procesamiento de datos, se realizan fusiones (merges) de diferentes conjuntos de datos relacionados con el COVID-19 para combinar la información relevante en un único conjunto de datos completo. Esto permite una visualización y analisis de los contagios maximos con la cantidad de habitantes del pais.
 
 - <img src="Solemne1_images/Merge.png" width="500" height="300">
 
